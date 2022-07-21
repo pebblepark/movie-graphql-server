@@ -1,7 +1,7 @@
 # GraphQL로 영화 API 만들기
 
 ## Cleint
-[nomad-graphql-client](https://github.com/pebblepark/nomad-graphql-client)
+[movie-graphql-client](https://github.com/pebblepark/movie-graphql-client)
 
 ## API Spec
 ```graphql
